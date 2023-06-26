@@ -2,6 +2,8 @@
 
 Code for ...
 
+**Research supported with Cloud TPUs from Google's TPU Research Cloud (TRC)**
+
 All experiments were run on TPUs using the Google TPU Research Cloud. 
 Apply for TPU access at https://sites.research.google/trc/about/. 
 
