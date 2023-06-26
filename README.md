@@ -1,6 +1,6 @@
 # Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression
 
-Code for <arXiv>
+Code for ...
 
 All experiments were run on TPUs using the Google TPU Research Cloud. Apply for TPU access at https://sites.research.google/trc/about/. After provisioning a TPU VM, create a Python virtual environment using:
 ```sh
