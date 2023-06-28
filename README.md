@@ -1,6 +1,7 @@
 # Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression
 
-Code for ...
+Code for [Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression
+](https://arxiv.org/abs/2306.15063)
 
 **Research supported with Cloud TPUs from Google's TPU Research Cloud (TRC)**
 
